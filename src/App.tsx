@@ -198,7 +198,7 @@ function App() {
     <div className="max-w-4xl mx-auto pt-20">
       <header className="text-center mb-16">
         <img
-          src="/public/img2.jpeg"
+          src="images/img2.jpeg" 
           alt="Pyarjan Thapa"
           className="w-32 h-32 rounded-full mx-auto mb-4 object-cover ring-4 ring-blue-500 dark:ring-blue-400"
         />

@@ -156,7 +156,7 @@ Learn how to apply TypeScript in real projects...`,
     readTime: "6 min read",
     tags: ["CSS", "Sass", "Less", "Web Development"],
     image:
-      "/public/Image-1-3.webp",
+      "images/Image-1-3.webp",
   },
 ];
 
